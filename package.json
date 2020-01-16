@@ -1,0 +1,28 @@
+{
+  "name": "hexo-filter-markdown-plantuml",
+  "version": "1.0.1",
+  "description": "support ```puml ``` format",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/add358/hexo-filter-markdown-plantuml.git"
+  },
+
+  "bundleDependencies": false,
+  "deprecated": false,
+
+  "dependencies": {
+    "hexo-tag-plantuml": "1.0.0"
+  },
+
+  "homepage": "https://github.com/add358/hexo-filter-markdown-plantuml",
+  "keywords": [
+    "hexo",
+    "plantuml",
+    "markdown"
+  ],
+
+  "bugs": {
+    "url": "https://github.com/add358/hexo-filter-markdown-plantuml/issues"
+  }
+}

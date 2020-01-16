@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-markdown-plantuml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "support ```puml ``` format",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
   "deprecated": false,
 
   "dependencies": {
-    "hexo-tag-plantuml": "1.0.2"
+    "hexo-tag-plantuml": "1.0.0"
   },
 
   "homepage": "https://github.com/add358/hexo-filter-markdown-plantuml",

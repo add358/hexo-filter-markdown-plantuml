@@ -11,10 +11,6 @@
   "bundleDependencies": false,
   "deprecated": false,
 
-  "dependencies": {
-    "hexo-tag-plantuml": "1.0.0"
-  },
-
   "homepage": "https://github.com/add358/hexo-filter-markdown-plantuml",
   "keywords": [
     "hexo",

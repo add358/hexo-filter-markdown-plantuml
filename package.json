@@ -12,7 +12,7 @@
   "deprecated": false,
 
   "dependencies": {
-    "hexo-tag-plantuml": "1.0.0"
+    "hexo-tag-plantuml": "1.0.2"
   },
 
   "homepage": "https://github.com/add358/hexo-filter-markdown-plantuml",
